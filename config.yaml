@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: union-moe # unique identifier
     name: union.moe
-    description: 'an opensource sharing place.' # default=empty
+    description: 'an open source sharing place.' # default=empty
     url: 'https://union.moe' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
